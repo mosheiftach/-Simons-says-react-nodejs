@@ -1,7 +1,7 @@
 Simon Says
 A react and node.js based game of Simon Says built with Typescript.
 
-#Prerequisites
+### Prerequisites
 -Node.js
 -npm
 Installation
